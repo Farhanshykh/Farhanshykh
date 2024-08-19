@@ -9,6 +9,9 @@
 
 - 🌱 I’m currently learning **React**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Farhanshykh?tab=repositories](https://github.com/Farhanshykh)
+
+
 - 💬 Ask me about **JavaScript/TypeScript**
 
 - 📫 How to reach me **farhanshykh22k@gmail.com**
