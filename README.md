@@ -1,4 +1,4 @@
-![logo](https://media.istockphoto.com/id/1290455818/vector/programming-coding-neural-network-and-artificial-intelligence-or-ai-software-develop.jpg?s=612x612&w=0&k=20&c=eVVUTVPG0d4KusaADehFdSquOfBkd0-3TuIgmPssJQw=width="600px")
+![logo]("https://plus.unsplash.com/premium_photo-1661964187664-e26f70e1a224?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D")
 
 <h1 align="center">Hi 👋, I'm Farhan Yaseen</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
