@@ -1,4 +1,4 @@
-![logo]([(https://www.canva.com/design/DAGOTQdqiic/Ox6C-ZN6Ihzym5YahHXrbQ/edit?utm_content=DAGOTQdqiic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![logo]([(https://www.canva.com/design/DAGOTQdqiic/Ox6C-ZN6Ihzym5YahHXrbQ/edit?utm_content=DAGOTQdqiic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)])
 
 <h1 align="center">Hi 👋, I'm Farhan Yaseen</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
